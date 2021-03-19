@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Category Name 1
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Traffic Light System (freeRTOS, C, STM32F4)](/sample_page)
+<img src="images/traffic_light_interface.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
