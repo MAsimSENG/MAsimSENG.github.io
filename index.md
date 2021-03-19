@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1
+### Embedded Systems
 
-[Traffic Light System (freeRTOS, C, STM32F4)](/sample_page)
+[Traffic Light System (freeRTOS, C, STM32)](/sample_page)
 <img src="images/traffic_light_interface.png?raw=true"/>
 
 ---
@@ -17,7 +17,19 @@
 
 ---
 
-### Category Name 2
+
+### Data Science Projects
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+
+
+### WebDevelopment Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
