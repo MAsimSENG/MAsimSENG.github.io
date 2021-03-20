@@ -6,12 +6,8 @@
 ### WebApplication
 
 - [Carpooling Web App](https://carpoolcanada.herokuapp.com/)
-- [Mars Vault Password Management Web Application](http://example.com/)
-- [Robot Project](http://example.com/)
-- [UVic Hybrid Vehicle Acceleration](http://example.com/)
-
-- [Project 5 Title](http://example.com/)
-
+- [Mars Vault Password Management](http://example.com/)
+- [Sneaker Portfolio](http://example.com/)
 ---
 
 
@@ -21,23 +17,14 @@
 <img src="images/traffic_light_interface.png?raw=true"/>
 
 ---
-[Carpooling WebApp](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Sneaker Portfolio WebApp](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 
 ### Data Science Projects
 
 - [Spoken Audio Emotion Classification](http://example.com/)
 - [Sung and Spoken Audio Emotion Classification](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Cipher Key Encryption](http://example.com/)
+
 
 ---
 
