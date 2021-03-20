@@ -1,7 +1,8 @@
 ## Portfolio
 
 ---
-
+### Skills
+  - [C,C++,Javascript,Python,Mocha and Chai, Selenium, Junit, Git, Microsoft Teams, Zoom]
 
 ### WebApplication
 
