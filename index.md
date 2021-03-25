@@ -24,7 +24,7 @@
 ### Data Science Projects
 
 - [Spoken Audio Emotion Classification](http://example.com/)
-- [Sung and Spoken Audio Emotion Classification](http://example.com/)
+- [Sung and Spoken Audio Emotion Classification](/spokenandsung_audio_classification)
 - [Cipher Key Encryption](http://example.com/)
 
 
