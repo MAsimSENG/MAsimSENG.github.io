@@ -4,6 +4,19 @@
 ### Skills
   - C,C++,Javascript,Python,Mocha and Chai, Selenium, Junit, Git, Microsoft Teams, Zoom
 
+
+### C++ 
+  - Classes, Templates 
+    1. [Random Number Generator Class] 
+    2. [Rational Number Class Template] 
+  - Compile-time computation, constexpr 
+    1. [constexpr string class template ] 
+    2. [Computation of Mandelbrot set at compile time] 
+  - Interval arithmetic and exception handlind 
+    1. [Interval class template for interval arithmetic]
+  - Memory management 
+    1. [Ordered set class template based on sorted array]  
+
 ### WebApplication
 
 - [Carpooling Web App](https://carpoolcanada.herokuapp.com/)
