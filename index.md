@@ -6,6 +6,7 @@
 
 
 ### C++ 
+  (Please note you will need a code to access the C++ projects below due to requests from my professor to avoid plagiarism)
   - Classes, Templates 
     1. [Random Number Generator Class](http://example.com/)
     2. [Rational Number Class Template](http://example.com/)
@@ -17,19 +18,25 @@
   - Memory management 
     1. [Ordered set class template based on sorted array]  (http://example.com/)
 
+
+### Embedded Systems
+
+[ Optimized Cordic computation (C,ARM)](/sample_page)
+---
+[Earliest Deadline First Scheduler (freeRTOS, C)](/sample_page)
+---
+[Traffic Light System (freeRTOS, C, STM32)](/sample_page)
+<img src="images/traffic_light_interface.png?raw=true"/>
+
+
 ### WebApplication
+
+- [Hubspot and Saasquatch integration](https://github.com/SENG499-team-2/SaaSquatch-HubSpot-integration)
 
 - [Carpooling Web App](https://carpoolcanada.herokuapp.com/)
 - [Mars Vault Password Management](http://example.com/)
 - [Sneaker Portfolio](http://example.com/)
 
----
-
-
-### Embedded Systems
-
-[Traffic Light System (freeRTOS, C, STM32)](/sample_page)
-<img src="images/traffic_light_interface.png?raw=true"/>
 
 ---
 
@@ -43,11 +50,3 @@
 
 ---
 
-
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
