@@ -7,15 +7,15 @@
 
 ### C++ 
   - Classes, Templates 
-    1. [Random Number Generator Class] 
-    2. [Rational Number Class Template] 
+    1. [Random Number Generator Class] (http://example.com/)
+    2. [Rational Number Class Template] (http://example.com/)
   - Compile-time computation, constexpr 
-    1. [constexpr string class template ] 
-    2. [Computation of Mandelbrot set at compile time] 
-  - Interval arithmetic and exception handlind 
-    1. [Interval class template for interval arithmetic]
+    1. [constexpr string class template ] (http://example.com/)
+    2. [Computation of Mandelbrot set at compile time] (http://example.com/)
+  - Interval arithmetic and exception handling
+    1. [Interval class template for interval arithmetic] (http://example.com/)
   - Memory management 
-    1. [Ordered set class template based on sorted array]  
+    1. [Ordered set class template based on sorted array]  (http://example.com/)
 
 ### WebApplication
 
