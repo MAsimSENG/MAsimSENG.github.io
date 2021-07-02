@@ -24,9 +24,11 @@
 [ Optimized Cordic computation (C,ARM)](/sample_page)
 
 ---
+
 [Earliest Deadline First Scheduler (freeRTOS, C)](/sample_page)
 
 ---
+
 [Traffic Light System (freeRTOS, C, STM32)](/sample_page)
 <img src="images/traffic_light_interface.png?raw=true"/>
 
