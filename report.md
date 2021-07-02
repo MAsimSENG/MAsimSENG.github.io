@@ -1,1 +1,2 @@
-<iframe src="url=https://drive.google.com/file/d/1MfU0mBpB2v0Ysj6SKSA6IhKQSRZyIG13/view?usp=sharing?usp=sharing&embedded=true" style="width:600px; height:500px;" frameborder="0"></iframe>
+<object data="/pdf/report1.pdf" type="application/pdf" width="100%"> 
+</object>
