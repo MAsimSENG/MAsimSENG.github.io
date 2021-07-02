@@ -29,7 +29,7 @@
 
 ---
 
-[Traffic Light System (freeRTOS, C, STM32)](/sample_page)
+[Traffic Light System (freeRTOS, C, STM32)](/TLS)
 <img src="images/traffic_light_interface.png?raw=true"/>
 
 
@@ -38,7 +38,9 @@
 - [Hubspot and Saasquatch integration](https://github.com/SENG499-team-2/SaaSquatch-HubSpot-integration)
 
 - [Carpooling Web App](https://carpoolcanada.herokuapp.com/)
+
 - [Mars Vault Password Management](http://example.com/)
+
 - [Sneaker Portfolio](http://example.com/)
 
 
