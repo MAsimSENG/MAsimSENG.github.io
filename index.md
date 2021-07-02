@@ -25,7 +25,7 @@
 
 ---
 
-[Earliest Deadline First Scheduler (freeRTOS, C)](/sample_page)
+[Earliest Deadline First Scheduler (freeRTOS, C)](/report.html)
 
 ---
 
