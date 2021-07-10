@@ -2,19 +2,18 @@
 
 ---
 ### Skills
-  - C,C++,Javascript,Python,Mocha and Chai, Selenium, Junit, Git, Microsoft Teams, Zoom
+  - C++, C, Javascript, CMake, Catch2(C++ Unit testing), Jest (JS Unit testing ), Git, Microsoft Teams, Zoom
 
 
 ### C++ 
   (Please note you will need a code to access the C++ projects below due to requests from my professor to avoid plagiarism)
-  - Classes, Templates 
+  - Numbers  
     1. [Random Number Generator Class](http://example.com/)
     2. [Rational Number Class Template](http://example.com/)
+    3. [Interval class template for interval arithmetic](http://example.com/)
   - Compile-time computation, constexpr 
     1. [constexpr string class template ](http://example.com/)
     2. [Computation of Mandelbrot set at compile time](http://example.com/)
-  - Interval arithmetic and exception handling
-    1. [Interval class template for interval arithmetic](http://example.com/)
   - Memory management 
     1. [Ordered set class template based on sorted array]  (http://example.com/)
 
@@ -25,7 +24,7 @@
 
 ---
 
-[Earliest Deadline First Scheduler (freeRTOS, C)](/report.md)
+[Earliest Deadline First Scheduler (freeRTOS, C)](/pdf/EDF_FOR_PORTFOLIO.pdf)
 
 ---
 
