@@ -2,7 +2,12 @@
 
 ---
 ### Skills
-  - C++, C, Javascript, CMake, Catch2(C++ Unit testing), Jest (JS Unit testing ), Git, Microsoft Teams, Zoom
+  - Programming languages 
+    - C++,C,Javascript 
+  - Testing Technology/ Buildtools  
+    - Catch2,Jest,CMake 
+  - Communication/other 
+     - Git,Agile(Scrum),Slack,Microsoft Teams,Zoom   
 
 
 ### C++ 
@@ -10,17 +15,17 @@
   - Numbers  
     1. [Random Number Generator Class](http://example.com/)
     2. [Rational Number Class Template](http://example.com/)
-    3. [Interval class template for interval arithmetic](http://example.com/)
+    3. [Interval class template for interval arithmetic and Geometric Predicates](http://example.com/)
   - Compile-time computation, constexpr 
     1. [constexpr string class template ](http://example.com/)
     2. [Computation of Mandelbrot set at compile time](http://example.com/)
   - Memory management 
-    1. [Ordered set class template based on sorted array]  (http://example.com/)
+    1. [Ordered set class template based on sorted array](http://example.com/)
 
 
 ### Embedded Systems
 
-[ Optimized Cordic computation (C,ARM)](/sample_page)
+[Optimization of Cordic]  (C,ARM)](https://github.com/MAsimSENG/Cordic)
 
 ---
 
