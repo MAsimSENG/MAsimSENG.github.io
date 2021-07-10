@@ -3,11 +3,11 @@
 ---
 ### Skills
   - Programming languages 
-    - C++,C,Javascript 
+    - C++ C Javascript 
   - Testing Technology/ Buildtools  
-    - Catch2,Jest,CMake 
+    - Catch2 Jest CMake 
   - Communication/other 
-     - Git,Agile(Scrum),Slack,Microsoft Teams,Zoom   
+     - Git Agile(Scrum) Slack MicrosoftTeams Zoom   
 
 
 ### C++ 
