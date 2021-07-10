@@ -16,8 +16,8 @@
     1. Random Number Generator Class
     2. Rational Number Class Template
     3. Interval class template for interval arithmetic and Geometric Predicates
-  - Compile-time computation, constexpr 
-    1. constexpr string class template
+  - Compile-time computation and Constexpr 
+    1. Constexpr string class template
     2. Computation of Mandelbrot set at compile time
   - Memory management 
     1. Ordered set class template based on sorted array
