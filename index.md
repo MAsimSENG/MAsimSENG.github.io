@@ -13,14 +13,14 @@
 ### C++ 
  Code for classes below available upon request by potential employers. 
   - Numbers  
-    1. [Random Number Generator Class]
-    2. [Rational Number Class Template]
-    3. [Interval class template for interval arithmetic and Geometric Predicates]
+    1. Random Number Generator Class
+    2. Rational Number Class Template
+    3. Interval class template for interval arithmetic and Geometric Predicates
   - Compile-time computation, constexpr 
-    1. [constexpr string class template]
-    2. [Computation of Mandelbrot set at compile time]
+    1. constexpr string class template
+    2. Computation of Mandelbrot set at compile time
   - Memory management 
-    1. [Ordered set class template based on sorted array]
+    1. Ordered set class template based on sorted array
 
 
 ### Embedded Systems
