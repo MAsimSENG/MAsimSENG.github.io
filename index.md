@@ -53,7 +53,9 @@
 ### Data Science Projects
 
 - [Spoken Audio Emotion Classification](/pdf/SpokenEmotion.pdf)
+
 - [Sung and Spoken Audio Emotion Classification](/pdf/Spoken_Sung.pdf)
+
 - [Cipher Key Encryption](https://github.com/MAsimSENG/Ciphers_Genetic_algorithm)
 
 
