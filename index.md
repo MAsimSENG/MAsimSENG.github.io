@@ -25,10 +25,11 @@
 ---
 
 [Earliest Deadline First Scheduler (freeRTOS, C)](/pdf/EDF_FOR_PORTFOLIO.pdf)
+<img src="images/EDF_IMAGE.png?raw=true"/>
 
 ---
 
-[Traffic Light System (freeRTOS, C, STM32)](/TLS)
+[Traffic Light System (freeRTOS, C, STM32)](/pdf/TLS_FOR_PORTFOLIO.pdf)
 <img src="images/traffic_light_interface.png?raw=true"/>
 
 
