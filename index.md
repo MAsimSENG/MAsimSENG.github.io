@@ -11,21 +11,21 @@
 
 
 ### C++ 
-  (Please note you will need a code to access the C++ projects below due to requests from my professor to avoid plagiarism)
+ Code for classes below available upon request by potential employers. 
   - Numbers  
-    1. [Random Number Generator Class](http://example.com/)
-    2. [Rational Number Class Template](http://example.com/)
-    3. [Interval class template for interval arithmetic and Geometric Predicates](http://example.com/)
+    1. [Random Number Generator Class]
+    2. [Rational Number Class Template]
+    3. [Interval class template for interval arithmetic and Geometric Predicates]
   - Compile-time computation, constexpr 
-    1. [constexpr string class template ](http://example.com/)
-    2. [Computation of Mandelbrot set at compile time](http://example.com/)
+    1. [constexpr string class template]
+    2. [Computation of Mandelbrot set at compile time]
   - Memory management 
-    1. [Ordered set class template based on sorted array](http://example.com/)
+    1. [Ordered set class template based on sorted array]
 
 
 ### Embedded Systems
 
-[Optimization of Cordic]  (C,ARM)](https://github.com/MAsimSENG/Cordic)
+[Efficient Cordic (C,ARM)](https://github.com/MAsimSENG/Cordic)
 
 ---
 
@@ -44,9 +44,7 @@
 
 - [Carpooling Web App](https://carpoolcanada.herokuapp.com/)
 
-- [Mars Vault Password Management](http://example.com/)
-
-- [Sneaker Portfolio](http://example.com/)
+- [Sneaker Portfolio](https://github.com/MAsimSENG/seng350f19-project-2-3/)
 
 
 ---
@@ -54,9 +52,9 @@
 
 ### Data Science Projects
 
-- [Spoken Audio Emotion Classification](http://example.com/)
-- [Sung and Spoken Audio Emotion Classification](/spokenandsung_audio_classification)
-- [Cipher Key Encryption](http://example.com/)
+- [Spoken Audio Emotion Classification](/pdf/SpokenEmotion.pdf)
+- [Sung and Spoken Audio Emotion Classification](/pdf/Spoken_Sung.pdf)
+- [Cipher Key Encryption](https://github.com/MAsimSENG/Ciphers_Genetic_algorithm)
 
 
 ---
