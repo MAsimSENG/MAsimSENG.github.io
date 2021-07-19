@@ -1,6 +1,9 @@
 ## Portfolio
 
 ---
+
+### Blog 
+  - [Divide and Conquer Matrix](/matrix.md)
 ### Skills
   - Programming languages 
     - C++   C    Javascript 
