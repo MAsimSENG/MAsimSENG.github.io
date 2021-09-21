@@ -4,13 +4,14 @@
 
 ### Blog 
   - [Divide and Conquer Matrix](/matrix.md)
-### Skills
-  - Programming languages 
-    - C++   C    Javascript 
-  - Testing Technology/ Buildtools  
-    - Catch2    Jest    CMake 
-  - Communication/other 
-     - Git   Agile(Scrum)   Slack   MicrosoftTeams    Zoom   
+
+### WebApplication
+
+- [Hubspot and Saasquatch integration](https://github.com/SENG499-team-2/SaaSquatch-HubSpot-integration)
+
+- [Carpooling Web App](https://carpoolcanada.herokuapp.com/)
+
+- [Sneaker Portfolio](https://github.com/MAsimSENG/seng350f19-project-2-3/)
 
 
 ### C++ 
@@ -25,6 +26,13 @@
   - Memory management 
     1. Ordered set class template based on sorted array
 
+### Skills
+  - Programming languages 
+    - C++   C    Javascript 
+  - Testing Technology/ Buildtools  
+    - Catch2    Jest    CMake 
+  - Communication/other 
+     - Git   Agile(Scrum)   Slack   MicrosoftTeams    Zoom   
 
 ### Embedded Systems
 
@@ -36,22 +44,10 @@
 <img src="images/EDF_IMAGE.png?raw=true"/>
 
 ---
-
 [Traffic Light System (freeRTOS, C, STM32)](/pdf/TLS_FOR_PORTFOLIO.pdf)
 <img src="images/traffic_light_interface.png?raw=true"/>
 
-
-### WebApplication
-
-- [Hubspot and Saasquatch integration](https://github.com/SENG499-team-2/SaaSquatch-HubSpot-integration)
-
-- [Carpooling Web App](https://carpoolcanada.herokuapp.com/)
-
-- [Sneaker Portfolio](https://github.com/MAsimSENG/seng350f19-project-2-3/)
-
-
 ---
-
 
 ### Data Science Projects
 
