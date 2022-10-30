@@ -3,15 +3,16 @@
 ---
 
 ### Work History 
-- [Technical Consultant at Groundswell Cloud Solutions Jan 2022 - Present]
+- ## Technical Consultant at Groundswell Cloud Solutions Jan 2022 - Present
+
   In my time at Groundswell I have worked as a software engineer for the largest CRM company in the world. 
   I have developed features integral to the B2B and B2C commerce cloud. Using Typescript, LWC, Jest and Java I wrote well tested code (100% coverage) that would allow commerce cloud admins to customize how end users view their previous orders.  
 
-- [Web Application Developer at University of Victoria (Intern) Sep 2021 - Dec 2021]
+- ## Web Application Developer at University of Victoria (Intern) Sep 2021 - Dec 2021
   Working on a C# .NET project I helped improve staff productivity by implementing Google Recaptcha on 
   UVic's website.  
 
-- [Junior and Senior Learning Technology Assistant (Intern) June 2020 - April 2021]
+- ## Junior and Senior Learning Technology Assistant (Intern) June 2020 - April 2021
   As a Learning Technology Assistant I supported UVic instructors and students to transition to online learning during the pandemic. 
 
 
