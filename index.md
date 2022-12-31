@@ -20,7 +20,6 @@
 ### Blog 
   - [History of Javascript (Chapter 1 of Mastering Javascript/Typescript)](CH-1-HISTORY)
 
-  - [History of Javascript] (/sample_page)
 
 ### WebApplication
 
