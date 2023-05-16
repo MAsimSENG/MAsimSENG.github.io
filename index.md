@@ -1,4 +1,6 @@
 ## Portfolio
+- [Resume](/pdf/resume.pdf)
+
 ### Skills
 #### Typescript, Lightning Web Components (LWC), Jest, HTML, CSS, Salesforce, Git, C++ 
 ---
